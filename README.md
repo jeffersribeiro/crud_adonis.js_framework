@@ -26,3 +26,26 @@ Run the following command to run startup migrations.
 ```js
 adonis migration:run
 ```
+
+### Boot
+
+to start this project do the clone and inside the project run in your terminal
+
+```bash
+npm install
+```
+and 
+
+```js
+adonis serve --dev
+```
+
+### Routes
+
+to list all available routes next to your method to make the request run in your terminal
+
+```js
+adonis route:list
+```
+
+
