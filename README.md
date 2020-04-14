@@ -34,7 +34,8 @@ to start this project do the clone and inside the project run in your terminal
 ```bash
 npm install
 ```
-and 
+
+and
 
 ```js
 adonis serve --dev
@@ -47,5 +48,3 @@ to list all available routes next to your method to make the request run in your
 ```js
 adonis route:list
 ```
-
-
